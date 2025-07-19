@@ -1,0 +1,13 @@
+numpy
+pandas
+opencv-python
+gradio
+torch
+torchvision
+transformers
+python-Levenshtein
+matplotlib
+tensorflow
+keras
+scikit-learn
+pillow
